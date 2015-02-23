@@ -1,2 +1,2 @@
 # OpenShift Ruby Cartridge
-This cartridge is documented in the [Cartridge Guide](http://openshift.github.io/documentation/oo_cartridge_guide.html#ruby).
+This is an intentionally broken cartridge. There is an error on line 50 in bin/control (a semicolon in the function name). Please note that this cartridge is for testing purposes only.
